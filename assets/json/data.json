@@ -1,0 +1,88 @@
+[
+  {
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 8,
+    "category": "Xuv 7oo",
+    "image": "assets/images/xuv.jpg",
+    "images": [
+      "assets/images/x1.jpeg",
+      "assets/images/x2.jpg",
+      "assets/images/x3.jpeg",
+      "assets/images/x4.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 4,
+    "category": "Lemborghini Sian",
+    "image": "assets/images/lembo.jpg",
+    "images": [
+      "assets/images/l1.jpg",
+      "assets/images/l2.jpg",
+      "assets/images/l3.jpg",
+      "assets/images/l4.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 4,
+    "category": "Mahindra Thar",
+    "image": "assets/images/thar.jpg",
+    "images": [
+      "assets/images/t1.jpg",
+      "assets/images/t2.jpg",
+      "assets/images/t3.jpg",
+      "assets/images/t4.jpg"
+    ]
+
+  },
+  {
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 6,
+    "category": "Rolls Royas Ghost",
+    "image": "assets/images/ghost.jpg",
+    "images": [
+      "assets/images/g1.jpg",
+      "assets/images/g2.jpg",
+      "assets/images/g3.jpg",
+      "assets/images/g4.jpg"
+    ]
+  },
+
+  {
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 8,
+    "category": "Mercedes benz c220d",
+    "image": "assets/images/c220d.jpg",
+    "images": [
+      "assets/images/c1.jpg",
+      "assets/images/c2.jpg",
+      "assets/images/c3.jpg",
+      "assets/images/c4.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 5,
+    "category": "Bugati Sheron",
+    "image": "assets/images/bugati.jpg",
+    "images": [
+      "assets/images/b1.jpg",
+      "assets/images/b2.jpg",
+      "assets/images/b3.jpg",
+      "assets/images/b4.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 5,
+    "category": "Ferrari sf90",
+    "image": "assets/images/ferrari.jpg",
+    "images": [
+      "assets/images/f1.jpg",
+      "assets/images/f2.jpg",
+      "assets/images/f3.jpg",
+      "assets/images/f4.jpg"
+    ]
+  }
+]
