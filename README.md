@@ -1,16 +1,6 @@
 # image_gallary
 
-A new Flutter project.
+## About this app
+https://user-images.githubusercontent.com/111631451/190850155-22b29ecc-c46f-43a7-8e74-2e89245bc69b.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/111631451/190849749-d4dbdff0-581a-423a-b261-2f5c51c835e5.png" style="height:550px"/><img src="https://user-images.githubusercontent.com/111631451/190849786-7ed73419-16cd-447c-a7a3-f77c3afb7374.png" style="height:550px"/>
